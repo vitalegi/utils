@@ -1,0 +1,5 @@
+﻿<test>
+	<groupId>@groupId@</groupId>
+	<artifactId>@artifactId@</artifactId>
+	<version>@version@</version>
+</test>
